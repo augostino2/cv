@@ -1,0 +1,166 @@
+body {
+  background-color: #003831;
+  margin: 0;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  color: #efb21e;
+  margin: 25px auto 0 auto;
+  font-family: comic sans ms, serif;
+  font-size: 5.625rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #efb21e;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+  color: #efb21e;
+}
+
+
+
+p {
+  font-family: Montserrat, sans-serif;
+  color: white;
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+  font-family: Montserrat, sans-serif;
+}
+
+hr {
+  border: dotted white 10px;
+  border-bottom: none;
+  width: 20%;
+  margin: 100px auto;
+}
+
+.footer-link{
+  color: #003831;
+  font-family: Roboto, sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+.footer-link:hover
+{
+  color: white;
+}
+
+.lawyer-link
+{
+  color: #efb21e;
+ text-decoration: none;
+}
+
+.lawyer-link:hover
+{
+  color: white;
+}
+
+.top-container {
+  background-color: #003831;
+  position: relative;
+  padding-top: 9.375rem;
+}
+
+.middle-container {
+  background-color: #003831;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #efb21e;
+  padding: 50px 0 20px;
+}
+
+.profilePic {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: #efb21e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #efb21e;
+  background-image: -webkit-linear-gradient(top, #efb21e, #003831);
+  background-image: -moz-linear-gradient(top, #efb21e, #003831);
+  background-image: -ms-linear-gradient(top, #efb21e, #003831);
+  background-image: -o-linear-gradient(top, #efb21e, #003831);
+  background-image: linear-gradient(to bottom, #efb21e, #003831);
+  text-decoration: none;
+}
+
+
+
+/*.baseball {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50px;
+}
+
+.lawyer {
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50px;
+}*/
+
+
+/*.baseballdesc {
+  clear: left;
+}
+
+.lawyerdesc {
+  clear: right;
+}*/
